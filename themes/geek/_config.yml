@@ -1,0 +1,10 @@
+logo_title: 豆芽
+
+favicon: /favicon.ico
+
+menu:
+  作品: /project
+  Github: https://github.com/mytun
+
+highlight:
+  enable: false
