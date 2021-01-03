@@ -5,7 +5,7 @@ tags: Spring mvc,JPA,Hq语句
 ---
 
 基于String JPA加上前端查询语句灵活自定义结果。
-
+源码地址：https://github.com/mytun/sqlDemo
 # 根据url数据自动查询数据库数据
 
 ## 可以根据URL传递搜索条件自动查询数据库数据
