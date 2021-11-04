@@ -3,17 +3,18 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Mytun
+title: '船到江心自然沉'
 subtitle: '技术分享'
 description: '技术分享-一个乐于助人分享开发过程中到新算法新技术的渔人'
-keywords: Mytun
+keywords: 船到江心自然沉
 author: MsYang
 language: zh-CN
 timezone: 'Asia/Shanghai'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-url: http://example.com
+url: http://www.lxyg06.com
+ba: 浙ICP备16032732号-1
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
